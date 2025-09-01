@@ -1,4 +1,11 @@
 ## Hi there 👋
+- 🔭 I’m currently working on **Flutter & Firebase apps** with real-time features, and running **SEO campaigns** that drive measurable growth.  
+- 🌱 I’m currently learning about **AI integration in mobile apps**, **advanced cloud solutions**, and sharpening my **UI/UX design skills**.  
+- 👯 I’m looking to collaborate on **open-source Flutter projects**, **SEO-driven platforms**, and **innovative cross-platform apps**.  
+- 🤔 I’m looking for help with contributing to **AI-powered app development** and exploring **scalable SaaS ideas**.  
+- 💬 Ask me about **Flutter development, Firebase, SEO strategies, WordPress publishing, content optimization, and UI/UX design**.  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I love blending **creativity with code** — whether it’s boosting organic traffic 📈 or building apps that solve real-world problems 🚀  
 
 <!--
 **sushmaa11/sushmaa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
