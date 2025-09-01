@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Sushma Sapkota.
 - 🔭 I’m currently working on **Flutter & Firebase apps** with real-time features, and running **SEO campaigns** that drive measurable growth.  
 - 🌱 I’m currently learning about **AI integration in mobile apps**, **advanced cloud solutions**, and sharpening my **UI/UX design skills**.  
 - 👯 I’m looking to collaborate on **open-source Flutter projects**, **SEO-driven platforms**, and **innovative cross-platform apps**.  
